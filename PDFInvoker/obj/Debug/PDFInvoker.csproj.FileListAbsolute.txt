@@ -1,0 +1,33 @@
+D:\EFF-CPU-238\My Current Projects\IoT\Tata Motors\Web API\TataMotors\PDFInvoker\bin\Debug\PDFInvoker.exe.config
+D:\EFF-CPU-238\My Current Projects\IoT\Tata Motors\Web API\TataMotors\PDFInvoker\bin\Debug\PDFInvoker.exe
+D:\EFF-CPU-238\My Current Projects\IoT\Tata Motors\Web API\TataMotors\PDFInvoker\bin\Debug\PDFInvoker.pdb
+D:\EFF-CPU-238\My Current Projects\IoT\Tata Motors\Web API\TataMotors\PDFInvoker\bin\Debug\Castle.Core.dll
+D:\EFF-CPU-238\My Current Projects\IoT\Tata Motors\Web API\TataMotors\PDFInvoker\bin\Debug\Newtonsoft.Json.dll
+D:\EFF-CPU-238\My Current Projects\IoT\Tata Motors\Web API\TataMotors\PDFInvoker\bin\Debug\TestStack.White.dll
+D:\EFF-CPU-238\My Current Projects\IoT\Tata Motors\Web API\TataMotors\PDFInvoker\bin\Debug\Castle.Core.xml
+D:\EFF-CPU-238\My Current Projects\IoT\Tata Motors\Web API\TataMotors\PDFInvoker\bin\Debug\Newtonsoft.Json.xml
+D:\EFF-CPU-238\My Current Projects\IoT\Tata Motors\Web API\TataMotors\PDFInvoker\bin\Debug\TestStack.White.pdb
+D:\EFF-CPU-238\My Current Projects\IoT\Tata Motors\Web API\TataMotors\PDFInvoker\bin\Debug\TestStack.White.xml
+D:\EFF-CPU-238\My Current Projects\IoT\Tata Motors\Web API\TataMotors\PDFInvoker\obj\Debug\PDFInvoker.ExitDialog.resources
+D:\EFF-CPU-238\My Current Projects\IoT\Tata Motors\Web API\TataMotors\PDFInvoker\obj\Debug\PDFInvoker.frmPDFInvoker.resources
+D:\EFF-CPU-238\My Current Projects\IoT\Tata Motors\Web API\TataMotors\PDFInvoker\obj\Debug\PDFInvoker.Properties.Resources.resources
+D:\EFF-CPU-238\My Current Projects\IoT\Tata Motors\Web API\TataMotors\PDFInvoker\obj\Debug\PDFInvoker.csproj.GenerateResource.Cache
+D:\EFF-CPU-238\My Current Projects\IoT\Tata Motors\Web API\TataMotors\PDFInvoker\obj\Debug\PDFInvoker.exe
+D:\EFF-CPU-238\My Current Projects\IoT\Tata Motors\Web API\TataMotors\PDFInvoker\obj\Debug\PDFInvoker.pdb
+D:\Tata Motors\Web API\TataMotors\PDFInvoker\bin\Debug\PDFInvoker.exe.config
+D:\Tata Motors\Web API\TataMotors\PDFInvoker\bin\Debug\PDFInvoker.exe
+D:\Tata Motors\Web API\TataMotors\PDFInvoker\bin\Debug\PDFInvoker.pdb
+D:\Tata Motors\Web API\TataMotors\PDFInvoker\bin\Debug\Castle.Core.dll
+D:\Tata Motors\Web API\TataMotors\PDFInvoker\bin\Debug\Newtonsoft.Json.dll
+D:\Tata Motors\Web API\TataMotors\PDFInvoker\bin\Debug\TestStack.White.dll
+D:\Tata Motors\Web API\TataMotors\PDFInvoker\bin\Debug\Castle.Core.xml
+D:\Tata Motors\Web API\TataMotors\PDFInvoker\bin\Debug\Newtonsoft.Json.xml
+D:\Tata Motors\Web API\TataMotors\PDFInvoker\bin\Debug\TestStack.White.pdb
+D:\Tata Motors\Web API\TataMotors\PDFInvoker\bin\Debug\TestStack.White.xml
+D:\Tata Motors\Web API\TataMotors\PDFInvoker\obj\Debug\PDFInvoker.csprojResolveAssemblyReference.cache
+D:\Tata Motors\Web API\TataMotors\PDFInvoker\obj\Debug\PDFInvoker.ExitDialog.resources
+D:\Tata Motors\Web API\TataMotors\PDFInvoker\obj\Debug\PDFInvoker.frmPDFInvoker.resources
+D:\Tata Motors\Web API\TataMotors\PDFInvoker\obj\Debug\PDFInvoker.Properties.Resources.resources
+D:\Tata Motors\Web API\TataMotors\PDFInvoker\obj\Debug\PDFInvoker.csproj.GenerateResource.Cache
+D:\Tata Motors\Web API\TataMotors\PDFInvoker\obj\Debug\PDFInvoker.exe
+D:\Tata Motors\Web API\TataMotors\PDFInvoker\obj\Debug\PDFInvoker.pdb

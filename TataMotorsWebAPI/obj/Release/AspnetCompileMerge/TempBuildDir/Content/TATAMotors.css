@@ -1,0 +1,215 @@
+﻿   body {
+    background: url('../Images/bg1.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+         }
+        #heading {
+            color:white;
+            text-align:center;
+
+        }
+        h1{
+            text-align:center;
+            font-size:43px;
+        }
+        #formRow {
+            margin-top: 1%;
+            background-color: rgba(170,192,223,0.2);
+            padding-top: 10px;
+            padding-bottom: 15px;
+            /* border-bottom: 1px solid rgba(255,255,255,0.9); */ 
+        }
+        .ratesRow {
+            background-color: rgba(168,188,220,0.5);
+            border-bottom: 1px solid rgba(255,255,255,0.9);
+            border-bottom: 1px solid rgba(255,255,255,0.9);
+        }
+        .chargesRow {
+            background-color: rgba(224,255,220,0);
+            border-bottom: 1px solid rgba(255,255,255,0.9);
+            text-align: center;
+        }
+        #heading {
+            padding-bottom:2px;
+            border-bottom: 1px solid white;
+        }
+        #logoRow {
+            padding-top:15px;
+            background-color: rgba(255,255,255,0.2);
+            margin-top:3px;
+                 }
+       #tata {
+            padding-top:31px;
+        }
+       .fileUpload {
+           padding-left:20px;
+       }
+   #btnUpload {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 10px 90px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+       }
+   #ok, #alertOkBtn {
+       background-color:#38b3ff;
+       color:white;
+       border-radius:0px;
+       border:none;
+       padding: 5px 30px;
+       font-size: 16px;
+   }
+   #btnUpload,#ok, #alertOkBtn {
+    box-shadow: 0 2px 2px 0 rgba(0,0,0,0.2), 0 2px 10px 0 rgba(0,0,0,0.19);
+}
+
+#btnUpload:hover,#ok:hover, #alertOkBtn:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+  input[type=file] {
+   background-color: rgba(192,205,220,0.4);
+    border: none;
+    color: #4a4040;
+    padding: 2px -1px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+   }
+    #poweredTxt {
+        text-align:center;
+    }
+    #powerBI {
+       text-align: center;
+       background-color: rgba(235, 195, 12,0.6);
+       margin-top: 10px;
+       border-bottom: 1px solid rgba(235, 195, 12,1);
+    }
+    #loadingDiv {
+        
+       position: fixed;
+       top: 50%;
+       left: 55%;
+       margin-top: -50px;
+       margin-left: -100px;
+       display:none;
+    }
+    /*Processing Modal*/
+    .modal-static { 
+    position: fixed;
+    top: 50% !important; 
+    left: 50% !important; 
+    margin-top: -100px;  
+    margin-left: -20%; 
+    overflow: visible !important;
+}
+.modal-static,
+.modal-static .modal-dialog,
+.modal-static .modal-content {
+   
+}
+.modal-static .modal-dialog,
+.modal-static .modal-content {
+    padding: 0 !important; 
+    margin: 0 !important;
+}
+.modal-static .modal-content .icon {
+}
+.modal-content {
+    border-radius:0px;
+}
+.modal-footer {
+    text-align: center;
+ }
+#Processwait {
+    text-align:center;
+}
+#ProcessInit,#ConsProcess,#GenProcess,#TSCProcess,#TimeSlotConsProcess,
+#MeterConsProcess,#OpenAccessBillProcess,
+#btnOk, #SucessMsg, #FailureMsg, #InfoMsg,#ProcessMsg{
+    text-align:center;
+    display:none;
+}
+#fileAlertIcon,#fileAlertMsg {
+text-align:center;
+}
+#ConsProcTitle,#GenProcTitle,#TSCProcTitle
+{
+    padding-right:0px !important;
+}
+.progress {
+    border-radius:0px;
+}
+#ProcessTxt, .DBConfirmFoo {
+    text-align:center;
+}
+/*turn off input number spinner off */
+input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button { 
+  -webkit-appearance: none; 
+  margin: 0; 
+}
+.valFields {
+    margin-right:5px;
+}
+/*input[type=numebr] {
+
+   margin-left:21px;
+    width:200px;
+}*/
+input[type=text]{
+    border:none;
+    border-bottom:1px solid #70bbc8;
+    width:80px;
+}
+.fileUploadtable tbody tr td {
+    text-align: center;    
+}
+table thead tr th {
+    text-align:center;
+}
+#reportImg {
+    margin-top:6px;
+    height:48px;
+}
+#CrossCharges,#WheelingCharges,#TransCharges,#OthPurDiscnt {
+    width:auto;
+}
+.table {
+    text-align:center;
+    align:center;
+}
+.billRateModalRow {
+    text-align:center;
+}
+
+input {
+    text-align: right;
+    background-color: rgba(218,222,222,0.4);
+}
+.table-striped>tbody>tr:nth-of-type(odd) {
+    background-color: rgba(213,214,209,0.3);
+}
+
+table.table.ratesTable .rates {
+    background-color: rgba(167,192,224,0.4);
+}
+
+h4 {
+    color: rgb(20, 103, 179);
+}
+table.table.ratesTable tbody tr:first-child,tr.rates td:first-child,table.table.table-striped thead th {
+    color: #1467b3;
+}

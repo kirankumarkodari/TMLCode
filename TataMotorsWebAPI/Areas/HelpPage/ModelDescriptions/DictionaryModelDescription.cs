@@ -1,0 +1,6 @@
+namespace TataMotorsWebAPI.Areas.HelpPage.ModelDescriptions
+{
+    public class DictionaryModelDescription : KeyValuePairModelDescription
+    {
+    }
+}
